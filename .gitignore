@@ -1,1 +1,3 @@
 /agentenv 
+*/__pycache__/
+data/
